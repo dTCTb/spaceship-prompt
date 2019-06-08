@@ -35,9 +35,10 @@ SPACESHIP_DIR_TRUNC=0
 SPACESHIP_DIR_COLOR="blue"
 
 # Git (git)
-SPACESHIP_GIT_PREFIX="@ "
+SPACESHIP_GIT_PREFIX="@"
 
     # Git Branch (git_branch)
+    SPACESHIP_GIT_BRANCH_PREFIX=""
     SPACESHIP_GIT_BRANCH_COLOR="green"
 
     # Git Status (git_status)
