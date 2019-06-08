@@ -1,8 +1,8 @@
-custom/
-
 node_modules
 _book
 
 # Lockfiles
 package-lock.json
 yarn.lock
+
+.DS_Store
